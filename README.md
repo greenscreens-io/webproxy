@@ -1,4 +1,4 @@
-# Scripting Web Proxy
+# Scripting Web Proxy ![build status](https://github.com/greenscreens-io/webproxy/actions/workflows/go.yml/badge.svg)
 
 A simple web proxy with request / response scripting interceptor allows you to use JavaScript for HTTP request headers and HTML body responses to block access or modify web content before displaying  it in the browser.
 
